@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "posters"
-permalink: /about/posters/
+permalink: /posters/
 ---
 
 see here for posters

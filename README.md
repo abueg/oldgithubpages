@@ -1,5 +1,7 @@
 hello! this is under construction
 
+{% include social-media-links.html %}
+
 ## about
 I am a bioinformatician working for the Vertebrate Genome Lab at Rockefeller University, where we aim to generate high-quality reference genomes across for all vertebrate species. We are currently in Phase 1 of our effort, wherein we are sequencing a taxonomically representative species for each vertebrate order. 
 

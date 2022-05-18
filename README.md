@@ -7,7 +7,6 @@ I am a bioinformatician working for the Vertebrate Genome Lab at Rockefeller Uni
 - [Reproducible and high-quality genome assembly and evaluation workflows in Galaxy](/posters/BoG2022/)
   - originally presented at the Biology of Genomes
   - Cold Spring Harbor Laboratory, May 11 2022
-- 
 
 ## education
 - MS in Biological Sciences, Fordham Graduate School of Arts and Sciences (May 2019)

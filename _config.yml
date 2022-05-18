@@ -5,6 +5,7 @@ plugins:
 
 title: linelle abueg
 description: bioinformatician @ the vertebrate genome lab
+tags: {% include social-media-links.html %}
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter

@@ -1,0 +1,11 @@
+email:
+  id: 'labueg@rockefeller.edu'
+  href: 'mailto:'
+  title: 'email'
+  fa-icon: 'fa-envelope-square'
+
+twitter:
+  id: 'llabueg'
+  href: 'https://www.twitter.com/'
+  title: 'twitter'
+  fa-icon: 'fa-twitter-square'

@@ -1,25 +1,18 @@
-# linelle abueg
-
 hello! this is under construction
+
+## about
+I am a bioinformatician working for the Vertebrate Genome Lab at Rockefeller University, where we aim to generate high-quality reference genomes across for all vertebrate species. We are currently in Phase 1 of our effort, wherein we are sequencing a taxonomically representative species for each vertebrate order. 
 
 ## education
 - MS in Biological Sciences, Fordham Graduate School of Arts and Sciences (May 2019)
 - BS in Biological Sciences, Fordham University (May 2018)
   - Minor in Philosophy, Minor in Classical Civilizations
 
-## affiliations
-- **Vertebrate Genome Lab (The Rockefeller University, New York, NY)**
-- Ichthyology Department (The American Museum of Natural History, New York, NY)
-- Department of Biological Sciences (Fordham University, Bronx, NY)
-- Louis Calder Center Biological Field Station (Westchester, NY)
-
 ## presentations
-- Biology of Genomes
+- [Reproducible and high-quality genome assembly and evaluation workflows in Galaxy](abueg.github.io/posters/)
+  - originally presented at the Biology of Genomes (Cold Spring Harbor Laboratory, May 11 2022)
 - AfricaBP Galaxy presentation
 - 
 
 ## resources
-
-## about
-
-hello!! 
+tbd

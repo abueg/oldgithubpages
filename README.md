@@ -1,6 +1,9 @@
 hello! this is under construction
 
-{% include social-media-links.html %}
+## links
+- [twitter](https://twitter.com/llabueg)
+- [orcID](https://orcid.org/0000-0002-6879-3954)
+- `labueg [at] rockefeller [dot] edu`
 
 ## about
 I am a bioinformatician working for the Vertebrate Genome Lab at Rockefeller University, where we aim to generate high-quality reference genomes across for all vertebrate species. We are currently in Phase 1 of our effort, wherein we are sequencing a taxonomically representative species for each vertebrate order. 
